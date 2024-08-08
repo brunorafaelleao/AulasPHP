@@ -6,4 +6,6 @@ e fazer o teste para iniciar o APACHE
 
 2) Ter o google chrome
 
-3) 
+3) Instalar e configurar o VS-CODE
+-> Após instalar, ir em Preferences
+
