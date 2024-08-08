@@ -1,0 +1,9 @@
+-> Para instalar usaremos um servidor WAMP
+
+1) Instalar um programa. Escolhi o XAMP
+-> Após instalar, executar o Painel de Controle
+e fazer o teste para iniciar o APACHE
+
+2) Ter o google chrome
+
+3) 
