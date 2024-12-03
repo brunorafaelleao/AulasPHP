@@ -10,3 +10,4 @@
  echo "Nome do filme: ". $nomeFilme. "\n";
   // echo "\n";
  echo 0.1+0.2;
+?>
