@@ -9,3 +9,5 @@
   <h1>Teste PHP</h1>
 </body>
 </html>
+
+<!-- Não há código php aqui  -->
