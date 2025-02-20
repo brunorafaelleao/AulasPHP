@@ -21,3 +21,13 @@ Se a nota for maior do que 6, o aluno foi aprovado. Caso contrário, foi reprova
 
 4 - Crie um array contendo nomes de familiares seus e após sua criação adicione mais elementos ao array.
 - [x] Feito 20/02/25
+
+### Exercício para revisar3 (funcao):
+1 - Escreva uma função em PHP que receba dois números inteiros e uma string representando a operação matemática e retorne o resultado da operação.
+- [ ] Feito 
+
+2 - Crie uma função em PHP que calcule o IMC baseado na altura e peso passados por parâmetro
+- [ ] Feito 
+
+3 - Crie uma função em PHP que converta graus celsius para Fahrenheit.
+- [ ] Feito 
