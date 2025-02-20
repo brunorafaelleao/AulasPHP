@@ -20,7 +20,7 @@ echo ("IMC: $imc\n");
 //3-Desenvolva um programa que exiba na tela uma saudação (bom dia, boa tarde ou boa noite)
 // dependendo do horário encontrado em uma variável (inteiro representando as horas).
 // Defina a variável com o horário (inteiro representando as horas)
-$hora = 15; // Exemplo: 15 representa 15:00 ou 3:00 PM
+/*$hora = 15; // Exemplo: 15 representa 15:00 ou 3:00 PM
 
 // Verifique o horário e exiba a saudação apropriada
 if ($hora >= 0 && $hora < 12) {
@@ -31,6 +31,6 @@ if ($hora >= 0 && $hora < 12) {
     echo "Boa noite\n";
 } else {
     echo "Hora inválida\n";
-}
+}*/
 
 ?>
