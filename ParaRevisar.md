@@ -31,3 +31,13 @@ Se a nota for maior do que 6, o aluno foi aprovado. Caso contrário, foi reprova
 
 3 - Crie uma função em PHP que converta graus celsius para Fahrenheit.
 - [ ] Feito 
+
+### Exercício para revisar4 (arrays):
+1 - Escreva um programa em PHP que inicialize um array de notas e exiba somente as 3 maiores notas do array.
+- [ ] Feito 
+
+2 - Crie um programa em PHP que transforme a string “Vinicius Dias,1997,Programador” em um array em que cada item está separado por vírgulas.
+- [ ] Feito 
+
+3 - Escreva uma função em PHP que receba um array de strings por parâmetro e o retorne ordenado em ordem alfabética.
+- [ ] Feito 
