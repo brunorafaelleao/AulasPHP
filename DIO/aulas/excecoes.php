@@ -25,4 +25,4 @@ function f3()
 
 f1();
 
-f2(int: 5.5);
+f2(int: 2);
